@@ -75,7 +75,7 @@ py main.py
 | Other | ? | Plays a random note between A and G. |
 |  | Other Consonants | Repeat the last note played. If none, causes a rest. |
 
-Inside the saved_songs/ folder you will find some examples like:
+Inside the `saved_songs/` folder you will find some examples, like:
 
 * `DoReMiFa.txt`
 * `Halloween.txt`
