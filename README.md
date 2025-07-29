@@ -83,7 +83,7 @@ Inside the `saved_songs/` folder you will find some examples, like:
 
 ## Video Demo
 
-working on it...
+https://github.com/user-attachments/assets/19b8895a-49ae-4d7e-b64f-0e2e3a538ff2
 
 ## License
 
