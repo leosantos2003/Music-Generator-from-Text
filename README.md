@@ -1,6 +1,6 @@
 # Music Generator from Text
 
-**INF01120 - Técnicas de Construção de Programas - UFRGS - 2025/1**
+**INF01120 - Técnicas de Construção de Programas - UFRGS - Trabalho Final - 2025/1**
 
 ## About
 
